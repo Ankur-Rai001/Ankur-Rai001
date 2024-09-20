@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
 
 # 💫 About Me:
 I am a Creative and skilled Python Django developer with 4+ years of experience in electrical engineering.<br>Proven ability to design, develop, test, debug, and deploy scalable, secure, and user-friendly Django applications. <br>Expertise in Python Programming, Git, Bitbucket, MySQL, REST APIs, AWS Lambda, Zappa, RESTful API design and Postman.<br>Passionate about using technology to solve real-world problem.
